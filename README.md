@@ -163,10 +163,6 @@ python -m pytest tests/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-MIT License - See LICENSE file for details
-
 ## Acknowledgments
 
 - OpenCV for computer vision capabilities
